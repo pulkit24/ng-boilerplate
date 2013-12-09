@@ -5,7 +5,7 @@
     "angular": "1.2.4",
     "angular-mocks": "1.2.4",
     "bootstrap": "3.0.3",
-    "angular-bootstrap": "0.7.0",
+    "angular-bootstrap": "git@github.com:angular-ui/bootstrap.git#bootstrap3",
     "angular-ui-router": "0.2.6",
     "angular-ui-utils": "0.0.3"
   },

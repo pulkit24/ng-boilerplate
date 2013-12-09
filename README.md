@@ -13,6 +13,12 @@ $ git clone git://github.com/joshdmiller/ng-boilerplate
 $ cd ng-boilerplate
 $ sudo npm -g install grunt-cli karma bower
 $ npm install
+
+## Angular Boostrap 3 (bootstrap3 branch) does not include tpls files (yet)
+$ cd /vendors/angular-bootstrap
+$ grunt
+## 
+
 $ bower install
 $ grunt watch
 ```
