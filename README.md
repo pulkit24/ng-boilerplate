@@ -17,6 +17,7 @@ $ npm install
 ## Angular Boostrap 3 (bootstrap3 branch) does not include tpls files (yet)
 $ cd /vendors/angular-bootstrap
 $ grunt
+$ cd ../..
 ## 
 
 $ bower install
